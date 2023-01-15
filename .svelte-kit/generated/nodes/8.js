@@ -1,0 +1,1 @@
+export { default as component } from "../../../src/routes/pt/fale-conosco/+page.svelte";
